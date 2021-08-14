@@ -1,0 +1,54 @@
+section {
+
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.about {
+
+     text-align: center;
+     align-items: center;
+     background: grey;
+}
+
+.text {
+
+    background: rgb(136, 126, 126);
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 44px;
+    margin: 30px;
+}
+
+.pad {
+
+    width: 100%;
+}
+
+.text-fp {
+
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.contact {
+
+    background: rgb(14, 230, 129);
+    border: 5px solid rgb(14, 230, 129);
+    border-radius: 12px;
+    margin: 18px;
+    padding-right: 15px;
+}
+
+.footer {
+
+    background: rgb(255, 72, 0);
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+    border: 14px solid purple;
+} 
